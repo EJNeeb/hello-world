@@ -1,4 +1,6 @@
 # hello-world
 My beginnings
 
-The master file.
+
+This is my first attempt into GitHub and Git.
+Hopefully I can become successful at this.
